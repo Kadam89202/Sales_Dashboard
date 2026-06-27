@@ -1,2 +1,2 @@
 # Sales_Dashboard
-• Developed an interactive dashboard analyzing sales, profit, transactions, and regional performance metrics. • Utilized DAX, Power Query, and data modeling to create KPI-driven reports and improve business visibility. Tools : PowerBI
+An interactive Power BI Sales Dashboard that provides comprehensive insights into sales, profit, customer segments, product performance, and regional trends using dynamic visualizations, KPIs, DAX, and Power Query. Designed to support data-driven business decisions through interactive reporting and analytics.
